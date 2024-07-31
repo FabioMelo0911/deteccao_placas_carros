@@ -1,1 +1,1 @@
-Sistema para detectar matrículas de carros.
+Sistema para detecção matrículas de carros.
