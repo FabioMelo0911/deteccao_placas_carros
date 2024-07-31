@@ -1,1 +1,1 @@
-# deteccao_placas_carros
+Sistema para detectar matrículas de carros.
